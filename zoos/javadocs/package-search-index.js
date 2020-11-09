@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.lambdaschool.zoos"},{"l":"com.lambdaschool.zoos.config"},{"l":"com.lambdaschool.zoos.controllers"},{"l":"com.lambdaschool.zoos.models"},{"l":"com.lambdaschool.zoos.repositories"},{"l":"com.lambdaschool.zoos.services"},{"l":"com.lambdaschool.zoos.views"}]
